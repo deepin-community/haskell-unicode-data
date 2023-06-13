@@ -1,5 +1,23 @@
-template-repository (1.0-1) unstable; urgency=medium
+haskell-unicode-data (0.3.1-2) unstable; urgency=medium
+
+  * Fix FTBFS on s390x (Closes: #1024807)
+
+ -- Scott Talbert <swt@techie.net>  Thu, 01 Dec 2022 16:23:19 -0500
+
+haskell-unicode-data (0.3.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sat, 22 Oct 2022 13:51:15 +0300
+
+haskell-unicode-data (0.3.0-2) unstable; urgency=medium
+
+  * Post-NEW source-only upload
+
+ -- Scott Talbert <swt@techie.net>  Fri, 05 Aug 2022 11:26:25 -0400
+
+haskell-unicode-data (0.3.0-1) unstable; urgency=low
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sat, 23 Jul 2022 14:17:37 +0300
